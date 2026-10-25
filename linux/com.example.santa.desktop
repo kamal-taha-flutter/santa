@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Santa
+Name[en]=SANTA
+GenericName=إدارة بيانات الأنشطة التجارية
+GenericName[en]=Business Activity Management
+Comment=تسجيل وإدارة بيانات الأنشطة التجارية وتصديرها إلى Excel
+Comment[en]=Register, manage and export business records
+Exec=santa
+Icon=santa
+Terminal=false
+StartupNotify=true
+StartupWMClass=com.example.santa
+Categories=Office;Finance;
+Keywords=سجلات;أعمال;تصدير;excel;records;business;
